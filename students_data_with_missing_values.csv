@@ -1,0 +1,11 @@
+Student_ID,Name,Age,Gender,Math_Score,Science_Score,Attendance_Percentage
+101,Aarav,18.0,Male,85.0,78.0,92.0
+102,Diya,17.0,Female,90.0,,88.0
+103,Rahul,,Male,76.0,70.0,
+104,Ananya,18.0,Female,,82.0,95.0
+105,Karthik,19.0,Male,88.0,85.0,
+106,Meera,,Female,92.0,90.0,98.0
+107,Vikram,18.0,Male,,75.0,80.0
+108,Priya,17.0,Female,84.0,,89.0
+109,Arjun,19.0,Male,91.0,88.0,
+110,Sneha,18.0,Female,87.0,92.0,94.0
